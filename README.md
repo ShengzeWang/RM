@@ -6,7 +6,7 @@ RM_Model is a standalone **C++** library for **low-overhead, high-performance tr
 It is a fresh C++ implementation inspired by the Recursive Model Index (RMI) Rust implementation from the Learned Systems project: https://github.com/learnedsystems/RMI. RM Model preserves the core ideas of RMI while delivering **improvements in performance (model building, selecting and inference), usability, and extensibility** for broader applications.
 
 
-RM Model is designed to be **fast, lightweight, and easy to embed** in other projects.
+RM Model library is designed to be **fast, lightweight, and easy to embed** in other projects.
 
 ## Citation
 
